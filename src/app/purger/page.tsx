@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Figmint from "./c/figmint";
+import Figmint from "../c/figmint";
 
 export default function Purger() {
   return (
