@@ -22,7 +22,7 @@ export default function Remembrant() {
         woolergin on the aismly truf <br />
         wraooplin and ferlachin <br />
         scroimiggin and boolappin... <br />
-        we were n't one for the perchifflin <br />
+        we were n&apos;t one for the perchifflin <br />
         art oont ee? <br />
       </div>
       <div className="font-mono z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex p-4">
