@@ -19,7 +19,9 @@ export default function Purger() {
       <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex">
         <Figmint>Weathering the Wombleschkootznick</Figmint>
         <Figmint>Tentoocle Oodle</Figmint>
-        <Figmint>Oliph</Figmint>
+        <Link href="loodorf">
+          <Figmint>Loodorf</Figmint>
+        </Link>
       </div>
     </main>
   );
